@@ -1,0 +1,81 @@
+{
+  "Bangladesh":[
+    {
+      "Country"    : "Bangladesh",
+      "Continent"  : "South Asia",
+      "Year"       : "2023",
+      "population" : "172,954,319",
+      "id"         : "1"
+    },
+    {
+      "Country"    : "Bangladesh",
+      "Continent"  : "South Asia",
+      "Year"       : "2022",
+      "population" : "171,186,372",
+      "id"         : "2"
+    },
+    {
+      "Country"    : "Bangladesh",
+      "Continent"  : "South Asia",
+      "Year"       : "2021",     
+      "population" : "169,356,251",
+      "id"         : "3"
+    },
+    {
+      "Country"    : "Bangladesh",
+      "Continent"  : "South Asia",
+      "Year"       : "2020",
+      "population" : "167,420,951",
+      "id"         : "4"
+    },
+    {
+      "Country"    : "Bangladesh",
+      "Continent"  : "South Asia",
+      "Year"       : "2019",
+      "population" : "165,516,222",
+      "id"         : "5"
+    }
+  ],
+  "similarcountries": [
+    {
+      "id "        : "01000IN",
+      "Country"    : "India",
+      "Year"       : "2023",
+      "Population" : "1,428,627,663"
+      },
+    {
+      "id "        : "02000INDO",
+      "Country"    : "Indoneshia",
+      "Year"       : "2023",
+      "Population" : "277,534,122"
+      },
+    {
+      "id "        : "03000PAK",
+      "Country"    : "Pakitan",
+      "Year"       : "2023",
+      "Population" : "240,485,658"
+      },
+    {
+      "id "        : "05000NI",
+      "Country"    : "Nigeria",
+      "Year"       : "2023",
+      "Population" : "223,804,632"
+      },
+    {
+      "id "        : "05000BAN",
+      "Country"    : "Bangladesh",
+      "Year"       : "2023",
+      "Population" : "172,954,319"
+      }
+  ],
+  "source": [
+    {
+        "measures": "Population",
+        "source_name": "macrotrends.net",
+        "source_description": "macrotrends.net conducts surveys of Bangladeh Population, including Similar Countries Ranked by Population",
+        "table_name": "Bangladesh - Historical Population Data",
+        "dataset_link": "https://www.macrotrends.net/countries/BGD/bangladesh/population"
+        "id "         : "9",
+      }
+  ]
+}
