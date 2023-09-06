@@ -1,4 +1,4 @@
-# RESTAssuredAutomation
+#  CreateLocalRESTAndAPIRESTAssuredAutomation
 This repository contains a simple framework for automating API testing using REST Assured, a Java-based library widely used for testing RESTful web services. This framework is designed to help you quickly set up and execute API tests, making it easier to validate the functionality and reliability of your APIs.
 
 Features:
