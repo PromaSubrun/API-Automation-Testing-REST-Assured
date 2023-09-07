@@ -1,5 +1,6 @@
 #  Create-Local-REST-API-And-API-Automation-Testing-REST-Assured
-This repository contains a simple framework for automating API testing using REST Assured, a Java-based library widely used for testing RESTful web services. This framework is designed to help you quickly set up and execute API tests, making it easier to validate the functionality and reliability of your APIs.
+This repository contains a simple framework for automating API testing using REST Assured, a Java-based library widely used for testing RESTful web services. This framework is designed to help quickly set up and execute API tests, making it easier to validate the functionality and reliability of APIs.
+
 
 Features:
 
@@ -7,6 +8,7 @@ Features:
 2. Test Automation: Write test cases in Java to automate API testing.
 3. Configuration: Easily configure API endpoints, request headers, and payloads.
 4. Reporting: Generate test reports to gain insights into test results.
+
    
 Getting Started:
 
@@ -20,6 +22,7 @@ git clone https://github.com/PromaSubrun/API-Automation-Testing-REST-Assured.git
 4. Run Tests: Execute your API tests using Maven.
 
 5. View Reports: Check the test reports generated for detailed test results. 
+
 
 Contributing:
 
