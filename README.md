@@ -21,6 +21,10 @@ git clone https://github.com/PromaSubrun/API-Automation-Testing-REST-Assured.git
 
 4. Run Tests: Execute your API tests using Maven.
 
+
+
+
+
 5. View Reports: Check the test reports generated for detailed test results. 
 
 
